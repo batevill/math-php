@@ -2697,4 +2697,3 @@ License
 -------
 
 MathPHP is licensed under the MIT License.
-asdfghjkl/
